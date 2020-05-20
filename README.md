@@ -4,7 +4,7 @@
 
 [Colins Blog](https://www.solipsys.co.uk/new/ColinsBlog.html)
 
-[Paul Graham -- Essays](http://paulgraham.com/articles.html
+[Paul Graham -- Essays](http://paulgraham.com/articles.html)
 
 [Julia Evans](https://jvns.ca/)
 
